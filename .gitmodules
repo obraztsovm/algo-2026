@@ -10,3 +10,6 @@
 [submodule "lab4"]
 	path = lab4
 	url = https://github.com/obraztsovm/lab4-algo.git
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/obraztsovm/lab5-algo.git
